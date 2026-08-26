@@ -1,4 +1,4 @@
-# Programacion-web_2026
+# Programacion-web-2026
 
 ## Introduccion:
 Repositorio creado para guardar avances de los trabajos en la materia de programación web
