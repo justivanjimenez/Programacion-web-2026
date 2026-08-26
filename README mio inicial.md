@@ -1,14 +1,14 @@
 # Programacion-web-2026
 
-##Introcuccion:
+## Introcuccion:
 Repositorio creado para guardar avances de los trabajos en la materia de programación web
 
-###Listra desordenada:
+### Listra desordenada:
 * Item 1
 * Item 2
 * Item 3
 
-###Lista ordenada:
+### Lista ordenada:
 1. Item 1
 2. Item 2
 3. Item 3
